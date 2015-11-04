@@ -1,0 +1,13 @@
+#main {
+    box-shadow: 0 0 4px #cccccc;
+}
+
+iframe {
+    height: 2em;
+    overflow: hidden;
+}
+
+.red {
+    background: red;
+    color: white;
+}
